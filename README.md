@@ -28,7 +28,7 @@ The warehouse analysis is a two-page report that looks into both the customer ca
 
 ### Live Demo
 
-You can interact with the project on [NovyPPro](https://www.novypro.com/profile_projects/cynthianafula?authuser=0&prompt=consent&scope=email%20profile%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20openid)
+You can interact with the project on [NovyPPro](https://www.novypro.com/project/warehouse-analysis)
 
 ## Data Source
 
