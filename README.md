@@ -32,7 +32,7 @@ You can interact with the project on [NovyPPro](https://www.novypro.com/profile_
 
 ## Data Source
 
-The data is available on Kaggle using this [link].(https://www.kaggle.com/datasets/prachi13/customer-analytics)
+The data is available on [Kaggle].(https://www.kaggle.com/datasets/prachi13/customer-analytics)
 
 
 ## Insights and Findings
