@@ -35,18 +35,18 @@ You can interact with the project on [NovyPPro](https://www.novypro.com/profile_
 The data is available on [Kaggle](https://www.kaggle.com/datasets/prachi13/customer-analytics/)
 
 ## Insights and Findings
-*The warehouse received a total of 11K calls from its customers
+* The warehouse received a total of 11K calls from its customers
 
-*The total revenue made was $2.16M while the average discount was $13
+* The total revenue made was $2.16M while the average discount was $13
 
-*Majority of customer calls were made regarding goods transported via Ship(7.5K calls)
+* Majority of customer calls were made regarding goods transported via Ship(7.5K calls)
 
-*Customers offered the lowest discount rates made the highest number of calls to the warehouse regarding their goods.
+* Customers offered the lowest discount rates made the highest number of calls to the warehouse regarding their goods.
 
-*The highest number of calls were made by customers who gave the company a rating of 3 stars
+* The highest number of calls were made by customers who gave the company a rating of 3 stars
 
-*Average customer rating was at 2.99 out of 5
+* Average customer rating was at 2.99 out of 5
 
-*The highest customer rating came from customers who had ordered goods of Medium importance(3.00)
+* The highest customer rating came from customers who had ordered goods of Medium importance(3.00)
 
-*The highest customer rating was recorded from clients whose goods had lesser weight in grams
+* The highest customer rating was recorded from clients whose goods had lesser weight in grams
