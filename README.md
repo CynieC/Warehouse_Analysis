@@ -22,7 +22,7 @@ The warehouse analysis is a two-page report that looks into both the customer ca
 ![image](https://github.com/CynieC/Warehouse_Analysis/assets/100769722/c474827a-8cbf-40b6-ae8d-c5299fa2c021)
 
 * The second page comprises the Customer Rating analysis to identify trends and patterns based on customer feedback. The visuals used are donut chart, line graphs, area chart, gauge and table. The analysis has slicers to filter items such as Mode of Shipment, Gender and Warehouse Block.
-  
+
 ![image](https://github.com/CynieC/Warehouse_Analysis/assets/100769722/5dc71320-f574-44f2-8675-be0df12d6b7f)
 
 
@@ -35,7 +35,7 @@ You can interact with the project on [NovyPPro](https://www.novypro.com/profile_
 The data is available on Kaggle using this [link].(https://www.kaggle.com/datasets/prachi13/customer-analytics)
 
 
-## Insights and Findings**
+## Insights and Findings
 *The warehouse received a total of 11K calls from its customers
 
 *The total revenue made was $2.16M while the average discount was $13
